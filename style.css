@@ -30,12 +30,14 @@
         padding: 20px;
         text-align: center;
         width: 500px;
+        overflow: auto;
         
     }
     .article {
         background-color:darkgrey;
         padding: 20px;
-        color: white;       
+        color: white;
+        overflow: auto;       
     }
     .h123 {
         background-color:white;
@@ -43,6 +45,7 @@
         padding: 10px 10px;
         text-align: center;
         color: darkgray;
+        overflow: auto;
     }
     .p {
         background-color:white;
@@ -50,6 +53,7 @@
         padding: 10px 10px;
         text-align: center;
         color: darkgray;
+        overflow: auto;
     }
     .aside {
         float: right;
@@ -62,9 +66,10 @@
         overflow: auto;
             }
     .footer {
-        background-color: yellow;
-        margin-top: 10px;
+        background-color: white;
+        margin-top: 215px;
         padding: 40px;
         text-align: center;
+        overflow: auto;
 
     }
